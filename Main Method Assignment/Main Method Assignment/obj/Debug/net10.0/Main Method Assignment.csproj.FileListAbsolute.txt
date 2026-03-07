@@ -1,0 +1,14 @@
+C:\Users\youta\source\repos\Main Method Assignment\Main Method Assignment\bin\Debug\net10.0\Main Method Assignment.exe
+C:\Users\youta\source\repos\Main Method Assignment\Main Method Assignment\bin\Debug\net10.0\Main Method Assignment.deps.json
+C:\Users\youta\source\repos\Main Method Assignment\Main Method Assignment\bin\Debug\net10.0\Main Method Assignment.runtimeconfig.json
+C:\Users\youta\source\repos\Main Method Assignment\Main Method Assignment\bin\Debug\net10.0\Main Method Assignment.dll
+C:\Users\youta\source\repos\Main Method Assignment\Main Method Assignment\bin\Debug\net10.0\Main Method Assignment.pdb
+C:\Users\youta\source\repos\Main Method Assignment\Main Method Assignment\obj\Debug\net10.0\Main Method Assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\youta\source\repos\Main Method Assignment\Main Method Assignment\obj\Debug\net10.0\Main Method Assignment.AssemblyInfoInputs.cache
+C:\Users\youta\source\repos\Main Method Assignment\Main Method Assignment\obj\Debug\net10.0\Main Method Assignment.AssemblyInfo.cs
+C:\Users\youta\source\repos\Main Method Assignment\Main Method Assignment\obj\Debug\net10.0\Main Method Assignment.csproj.CoreCompileInputs.cache
+C:\Users\youta\source\repos\Main Method Assignment\Main Method Assignment\obj\Debug\net10.0\Main Method Assignment.dll
+C:\Users\youta\source\repos\Main Method Assignment\Main Method Assignment\obj\Debug\net10.0\refint\Main Method Assignment.dll
+C:\Users\youta\source\repos\Main Method Assignment\Main Method Assignment\obj\Debug\net10.0\Main Method Assignment.pdb
+C:\Users\youta\source\repos\Main Method Assignment\Main Method Assignment\obj\Debug\net10.0\Main Method Assignment.genruntimeconfig.cache
+C:\Users\youta\source\repos\Main Method Assignment\Main Method Assignment\obj\Debug\net10.0\ref\Main Method Assignment.dll
