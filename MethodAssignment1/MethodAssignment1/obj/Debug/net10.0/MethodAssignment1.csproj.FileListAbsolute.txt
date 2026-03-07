@@ -1,0 +1,14 @@
+C:\Users\youta\source\repos\MethodAssignment1\MethodAssignment1\bin\Debug\net10.0\MethodAssignment1.exe
+C:\Users\youta\source\repos\MethodAssignment1\MethodAssignment1\bin\Debug\net10.0\MethodAssignment1.deps.json
+C:\Users\youta\source\repos\MethodAssignment1\MethodAssignment1\bin\Debug\net10.0\MethodAssignment1.runtimeconfig.json
+C:\Users\youta\source\repos\MethodAssignment1\MethodAssignment1\bin\Debug\net10.0\MethodAssignment1.dll
+C:\Users\youta\source\repos\MethodAssignment1\MethodAssignment1\bin\Debug\net10.0\MethodAssignment1.pdb
+C:\Users\youta\source\repos\MethodAssignment1\MethodAssignment1\obj\Debug\net10.0\MethodAssignment1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\youta\source\repos\MethodAssignment1\MethodAssignment1\obj\Debug\net10.0\MethodAssignment1.AssemblyInfoInputs.cache
+C:\Users\youta\source\repos\MethodAssignment1\MethodAssignment1\obj\Debug\net10.0\MethodAssignment1.AssemblyInfo.cs
+C:\Users\youta\source\repos\MethodAssignment1\MethodAssignment1\obj\Debug\net10.0\MethodAssignment1.csproj.CoreCompileInputs.cache
+C:\Users\youta\source\repos\MethodAssignment1\MethodAssignment1\obj\Debug\net10.0\MethodAssignment1.dll
+C:\Users\youta\source\repos\MethodAssignment1\MethodAssignment1\obj\Debug\net10.0\refint\MethodAssignment1.dll
+C:\Users\youta\source\repos\MethodAssignment1\MethodAssignment1\obj\Debug\net10.0\MethodAssignment1.pdb
+C:\Users\youta\source\repos\MethodAssignment1\MethodAssignment1\obj\Debug\net10.0\MethodAssignment1.genruntimeconfig.cache
+C:\Users\youta\source\repos\MethodAssignment1\MethodAssignment1\obj\Debug\net10.0\ref\MethodAssignment1.dll
