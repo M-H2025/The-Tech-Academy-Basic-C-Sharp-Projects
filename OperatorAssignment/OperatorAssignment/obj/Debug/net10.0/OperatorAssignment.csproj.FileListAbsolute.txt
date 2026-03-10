@@ -1,0 +1,14 @@
+C:\Users\youta\source\repos\OperatorAssignment\OperatorAssignment\bin\Debug\net10.0\OperatorAssignment.exe
+C:\Users\youta\source\repos\OperatorAssignment\OperatorAssignment\bin\Debug\net10.0\OperatorAssignment.deps.json
+C:\Users\youta\source\repos\OperatorAssignment\OperatorAssignment\bin\Debug\net10.0\OperatorAssignment.runtimeconfig.json
+C:\Users\youta\source\repos\OperatorAssignment\OperatorAssignment\bin\Debug\net10.0\OperatorAssignment.dll
+C:\Users\youta\source\repos\OperatorAssignment\OperatorAssignment\bin\Debug\net10.0\OperatorAssignment.pdb
+C:\Users\youta\source\repos\OperatorAssignment\OperatorAssignment\obj\Debug\net10.0\OperatorAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\youta\source\repos\OperatorAssignment\OperatorAssignment\obj\Debug\net10.0\OperatorAssignment.AssemblyInfoInputs.cache
+C:\Users\youta\source\repos\OperatorAssignment\OperatorAssignment\obj\Debug\net10.0\OperatorAssignment.AssemblyInfo.cs
+C:\Users\youta\source\repos\OperatorAssignment\OperatorAssignment\obj\Debug\net10.0\OperatorAssignment.csproj.CoreCompileInputs.cache
+C:\Users\youta\source\repos\OperatorAssignment\OperatorAssignment\obj\Debug\net10.0\OperatorAssignment.dll
+C:\Users\youta\source\repos\OperatorAssignment\OperatorAssignment\obj\Debug\net10.0\refint\OperatorAssignment.dll
+C:\Users\youta\source\repos\OperatorAssignment\OperatorAssignment\obj\Debug\net10.0\OperatorAssignment.pdb
+C:\Users\youta\source\repos\OperatorAssignment\OperatorAssignment\obj\Debug\net10.0\OperatorAssignment.genruntimeconfig.cache
+C:\Users\youta\source\repos\OperatorAssignment\OperatorAssignment\obj\Debug\net10.0\ref\OperatorAssignment.dll
